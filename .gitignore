@@ -1,0 +1,6 @@
+DesignTimeBuild
+/.vs/backend/config/applicationhost.config
+/.vs/backend/v16/.suo
+netcoreapp3.1
+obj
+Models
